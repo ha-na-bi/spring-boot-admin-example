@@ -4,7 +4,10 @@
 
 ## admin-server
 
-集成了 spring-boot-admin-starter-server 的服务端项目
+集成了 spring-boot-admin-starter-server 的服务端项目。
+
+- 账号：admin
+- 密码：123456
 
 ## admin-client
 
